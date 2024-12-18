@@ -1,0 +1,8 @@
+relevant_modality,aud1,aud2,vis1,vis2,stage
+AUD,142,192,109,179,training
+AUD,266,316,39,109,ids+stair
+AUD,266,0,39,109,atten_man
+VIS,380,430,5,75,eds
+VIS,25,75,159,229,ids+stair
+VIS,25,75,159,229,atten_man
+AUD,503,553,143,213,eds
