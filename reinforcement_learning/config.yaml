@@ -1,0 +1,18 @@
+
+processed_data:
+  location: './data/processed_data/'
+  
+  # rat experiments
+  rat_experiment:
+    metadata: 'attention_behaviorals_metadata.csv'
+    trials: 'attention_behaviorals_actions.pkl'
+
+  # human experiments: pilot
+  human_pilot_experiment:
+    metadata: 'attention_behaviorals_human_pilot_metadata.csv'
+    trials: 'attention_behaviorals_human_pilot_actions.pkl'
+
+  # human experiment: motivation
+  human_motivation_experiment:
+    metadata: 'attention_behaviorals_human_motivation_metadata.csv'
+    trials: 'attention_behaviorals_human_motivation_actions.pkl'
